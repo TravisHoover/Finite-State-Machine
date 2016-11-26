@@ -1,7 +1,3 @@
-//Author: Travis Hoover
-//Date: April 14, 2016
-//CSCI 3080; Dr. Pettey
-//This program is a finite state machine regonizer for the regular expression a*b*ab
 
 #include <iostream>
 
